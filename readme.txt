@@ -1,1 +1,0 @@
-1) Needs 64x32 image input in .png format (use photoshop to reduce resolution)
